@@ -8,9 +8,8 @@ This app allows users to create, edit, delete, and manage tasks efficiently with
 ## 🚀 Live Demo
 🔗 [Click here to view the live site](task-management-app-kappa-henna.vercel.app)
 ## 💻 View the Code
-📂 [View on GitHub](## 💻 View the Code
-📂 [View on GitHub](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
-)
+📂 [View on GitHub](https://github.com/Reshmashameem31/task-management-app)
+
 
 ---
 
